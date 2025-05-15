@@ -83,7 +83,7 @@ export default function Contact() {
             placeholder="Hello! I'd like to discuss..."
             required
           />
-          <Button type="submit" className="w-full" disabled={isSubmitting}>
+          <Button type="submit" className="w-full">
             {isSubmitting ? 'Sending...' : 'Send Message'}
           </Button>
           
