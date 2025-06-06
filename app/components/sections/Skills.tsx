@@ -33,6 +33,18 @@ const skills = [
     level: 'Advanced',
     description: 'Data analysis, automation, and machine learning',
     icon: '🐍'
+  },
+  {
+    name: 'React, Node.js, Typescript, React Native',
+    level: 'Advanced',
+    description: 'Building fast, user-focused apps',
+    icon: '⚛️'
+  },
+  {
+    name: 'Redis, Clickhouse',
+    level: 'Learning',
+    description: 'Learning new technologies',
+    icon: '🟨'
   }
 ]
 

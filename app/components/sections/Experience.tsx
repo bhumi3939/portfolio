@@ -5,40 +5,37 @@ import AnimatedSection from '../AnimatedSection'
 
 const experiences = [
   {
-    title: 'Full Stack Developer',
+    title: 'Full Stack Developer Intern',
     company: 'Sports Excitement',
     period: '2025 Feb - Present',
     location: 'New York, NY',
     description: [
-      'Led development of enterprise-scale React applications',
-      'Architected microservices infrastructure using Node.js and AWS',
-      'Mentored junior developers and conducted code reviews',
-      'Implemented CI/CD pipelines and automated testing strategies'
+      'Developed features in React Native, Typescript and Node.js, improving app performance and user experience.',
+      'Built an LLM-integrated chatbot using Python, increasing user engagement and automating support.',
+      'Designed AWS Lambda workflows with Clickhouse and DynamoDB to improve user retention.'
     ]
   },
   {
-    title: 'Full Stack AI Developer',
+    title: 'Full Stack Developer',
     company: 'Ernst & Young GDS',
     period: '2022 - 2023',
     location: 'Bengaluru, India',
     description: [
-      'Built and deployed full-stack AI applications using React, Node.js, and Python-based ML frameworks',
+  'Built and deployed full-stack AI applications using React, TypeScript, Node.js, and Python-based ML frameworks',
   'Integrated machine learning models into backend services for predictive analytics and automation',
-  'Developed APIs to serve real-time model inferences and handled data preprocessing pipelines',
-  'Collaborated with data scientists and frontend teams to deliver scalable, AI-powered user experiences'
+  'Containerized services using Docker, integrated CI/CD pipelines for zero-downtime deployments'
 
     ]
   },
   {
-    title: 'Programmer Analyst',
+    title: 'Analyst',
     company: 'Cognition',
     period: '2021 - 2022',
     location: 'Bengaluru, India',
     description: [
-      'Developed data preprocessing and model training pipelines using Python, Pandas, and scikit-learn',
+  'Built internal automation tools to streamline subscription renewal and maintenance reminders using Node.js and AWS, reducing manual tasks by 40%.',
   'Analyzed business requirements and translated them into AI/ML solutions for internal tools and client platforms',
-  'Worked closely with data scientists to optimize machine learning models for performance and scalability',
-  'Implemented model evaluation workflows and automated reporting using Jupyter, SQL, and visualization libraries'
+  'Participated in weekly cross-functional sprints with design and product teams to ensure fast iteration and user-first development'
 ]
   }
 ]
