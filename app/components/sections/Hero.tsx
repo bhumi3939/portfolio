@@ -85,7 +85,7 @@ export default function Hero() {
             variants={textVariants}
             className="text-xl md:text-2xl mb-8 text-gray-300"
           >
-            AI/ML Engineer
+            Full Stack Engineer
           </motion.p>
           <motion.div
             initial="hidden"

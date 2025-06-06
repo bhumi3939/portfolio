@@ -42,7 +42,7 @@ export default function About() {
             whileHover={{ scale: 1.02 }}
             className="netflix-card p-6"
           >
-            <h3 className="text-2xl font-bold mb-4">AI/ML Engineer</h3>
+            <h3 className="text-2xl font-bold mb-4">Full Stack Engineer</h3>
             <p className="text-gray-300 mb-4">
             I'm a full-stack engineer with 2+ years of experience building fast, user-focused apps using React, Node.js, Python, and AWS.
             I work on solving real-world problems with clean code, automation, and AI-powered features.
